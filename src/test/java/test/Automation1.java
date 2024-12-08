@@ -14,6 +14,7 @@ public class Automation1 {
 		System.out.println(driver.getTitle());
 		System.out.println("Visited to Facebook website successfully");
 		driver.close();
+		System.out.println("Test Sucessful");
 		}
 
 }
